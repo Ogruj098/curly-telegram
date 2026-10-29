@@ -1,0 +1,11 @@
+[package]
+name = "skills-introduction-to-github"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# No external dependencies for this demonstration
+
+[lib]
+name = "skills_introduction_to_github"
+path = "src/lib.rs"
