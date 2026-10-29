@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.com/orgs/community/discussions
+    about: Ask questions and discuss with the GitHub community
+  - name: Contributing Guidelines
+    url: https://github.com/Ogruj098/skills-introduction-to-github/blob/main/CONTRIBUTING.md
+    about: Learn how to contribute to this project
